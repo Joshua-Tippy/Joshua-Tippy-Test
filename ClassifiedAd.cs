@@ -9,6 +9,7 @@ namespace TestClassifiedAd
 {
     class ClassifiedAd
     {
+		int num = 9;
         private double price;
         private int words;
         private string catagory;
